@@ -10,7 +10,7 @@ se debe hacer cuando queremos indicarle a git que no queremos subir ciertos arch
 configurarlo en base a que archivos o documentos buscamos ignorar, por ejemplo si queremos no subir al reppositorio el archivo ignorado.txt deberiamos incluirlo ahi
 
 # EJERCICIO 3 PUNTO G
-
+aca se responderan las preguntas del punto 3
 ## Si resolvió correctamente los apartados 2 y 3 del punto anterior notará que el resultado es el mismo. ¿a qué se debe?
 el resultado es el mismo, pues un puntero es una variable que almacena la direccion de memoria de otra variable, por lo tanto acceder a la direccion de memoria almacenada en el puntero o a la direccion de memoria de la misma variable es exactamente lo mismo, pues el puntero almacena la direccion de memoria de la variable
 
